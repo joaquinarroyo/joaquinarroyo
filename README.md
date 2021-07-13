@@ -17,3 +17,17 @@ Here are some ideas to get you started:
 -->
 
 Here you’d find some of my projects.
+
+## Skills
+### Programming languages
+- Python (OOP)
+- C (Dynamic memory, data structure, threads and process)
+- Java (OOP)
+- Erlang (Process and nodes)
+- Assembly (x86-64 and ARM)
+
+### Other skills
+- Linear algebra
+- Calculus
+- Statistic and probability
+- Computer architecture
