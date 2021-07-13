@@ -1,4 +1,4 @@
-# Hi there, my name is Joaquin Arroyo 👋
+# Hi there, i'm Joaquin Arroyo 👋
 ### Computer Science student and programmer
 
 <!--
