@@ -1,4 +1,5 @@
-### Hi there 👋
+# Hi there, my name is Joaquin Arroyo 👋
+### Computer Science student and programmer
 
 <!--
 **joaquinarroyo/joaquinarroyo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,5 +16,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I’m a Computer Science student and programmer.
 Here you’d find some of my projects.
