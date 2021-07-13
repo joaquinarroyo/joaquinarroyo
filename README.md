@@ -25,9 +25,12 @@ Here you’d find some of my projects.
 - Java (OOP)
 - Erlang (Process and nodes)
 - Assembly (x86-64 and ARM)
+- Haskell (Basic)
 
 ### Other skills
 - Linear algebra
 - Calculus
 - Statistic and probability
 - Computer architecture
+- R (plots and stuff)
+- Team work
