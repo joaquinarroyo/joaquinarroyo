@@ -10,6 +10,7 @@ Here you’d find some of my projects.
 - Java (OOP)
 - Erlang (Process and nodes)
 - Assembly (x86-64 and ARM)
+- C++ (OOP)
 - Haskell (Basic)
 
 ### Other skills
