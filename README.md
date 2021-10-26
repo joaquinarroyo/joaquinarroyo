@@ -11,6 +11,7 @@ Here you’d find some of my projects.
 - Erlang (Process and nodes)
 - Assembly (x86-64 and ARM)
 - C++ (OOP)
+- JavaScript (Basic)
 - Solidity (Basic)
 - Haskell (Basic)
 
