@@ -7,7 +7,7 @@ Here you’d find some of my projects.
 ### Programming languages
 - Python (OOP)
 - C (Dynamic memory, data structure, threads and process)
-- Java (OOP, Spring MVC)
+- Java (OOP)
 - Erlang (Process and nodes)
 - Assembly (x86-64 and ARM)
 - C++ (OOP)
@@ -15,6 +15,9 @@ Here you’d find some of my projects.
 - Solidity (Basic)
 - Haskell (Basic)
 - HTML + CSS (Basic)
+
+### Frameworks
+- Spring MVC
 
 ### Other skills
 - Linear algebra
