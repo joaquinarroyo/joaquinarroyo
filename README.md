@@ -14,12 +14,12 @@ Here you’d find some of my projects.
 - JavaScript (Basic)
 - Solidity (Basic)
 - Haskell (Basic)
-- HTML + CSS (Basic)
 
 ### Frameworks
 - Spring MVC
 
 ### Other skills
+- HTML + CSS (Basic)
 - Linear algebra
 - Calculus
 - Statistic and probability
