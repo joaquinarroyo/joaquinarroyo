@@ -6,9 +6,9 @@ Here you’d find some of my projects.
 ## Skills
 ### Programming languages
 - Python (OOP)
-- C (Dynamic memory, data structure, threads and process)
+- C (Dynamic memory, data structure, threads and processes)
 - Java (OOP)
-- Erlang (Process and nodes)
+- Erlang (Processes and nodes)
 - Assembly (x86-64 and ARM)
 - C++ (OOP)
 - JavaScript (Basic)
