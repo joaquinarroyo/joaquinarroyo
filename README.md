@@ -17,8 +17,10 @@ Here you’d find some of my projects.
 
 ### Frameworks
 - Spring MVC
+- Django
 
 ### Other skills
+- React
 - HTML + CSS (Basic)
 - Linear algebra
 - Calculus
