@@ -8,13 +8,13 @@
 ### Programming languages
 ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-- Java (OOP)![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-- Erlang (Processes and nodes)![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-- Assembly (x86-64 and ARM)![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-- C++ (OOP)![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-- Solidity (Basic)
-- Haskell (Basic)
+Solidity
+Haskell
 
 ### Frameworks
 https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white
