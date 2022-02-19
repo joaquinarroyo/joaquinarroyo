@@ -6,8 +6,8 @@
 
 ## Skills
 ### Programming languages
-![]https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
-![]https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white (Dynamic memory, data structure, threads and processes)
+![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)(Dynamic memory, data structure, threads and processes)
 - Java (OOP)
 - Erlang (Processes and nodes)
 - Assembly (x86-64 and ARM)
