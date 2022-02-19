@@ -3,7 +3,7 @@
 
 Here you’d find some of my projects.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaquinarroyo)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaquinarroyo&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 ## Skills
 ### Programming languages
 - Python (OOP)
