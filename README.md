@@ -21,10 +21,6 @@ Here you’d find some of my projects.
 
 ### Other skills
 - React.js
-- HTML + CSS (Basic)
-- Linear algebra
-- Calculus
-- Statistic and probability
-- Computer architecture
-- R (plots and stuff)
-- Team work
+- HTML5
+- CSS3
+
