@@ -20,7 +20,7 @@ Here you’d find some of my projects.
 - Django
 
 ### Other skills
-- React
+- React.js
 - HTML + CSS (Basic)
 - Linear algebra
 - Calculus
